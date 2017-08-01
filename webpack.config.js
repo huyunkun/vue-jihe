@@ -33,6 +33,5 @@ module.exports = {
         loaders: {
         js: 'babel'
     }
-                
 }
 
